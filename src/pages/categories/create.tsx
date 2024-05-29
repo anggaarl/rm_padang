@@ -27,7 +27,7 @@ export const CategoryCreate = () => {
           fullWidth
           InputLabelProps={{ shrink: true }}
           type="text"
-          label={"Title"}
+          label={"MAMASE"}
           name="title"
         />
       </Box>
